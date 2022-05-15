@@ -8,6 +8,7 @@ import java.sql.Statement;
 
 public class Item 
 { //A common method to connect to the DB
+	//comment
 		private Connection connect(){ 
 			
 						Connection con = null; 
